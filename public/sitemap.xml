@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home pages -->
+  <url><loc>https://apartmani-enjoy.com/en</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Main pages -->
+  <url><loc>https://apartmani-enjoy.com/en/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://apartmani-enjoy.com/en/apartments</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/apartments</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/apartments</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/apartments</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://apartmani-enjoy.com/en/location</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/location</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/location</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/location</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://apartmani-enjoy.com/en/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Apartments subpages -->
+  <url><loc>https://apartmani-enjoy.com/en/apartments/arena</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/apartments/arena</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/apartments/arena</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/apartments/arena</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://apartmani-enjoy.com/en/apartments/nin</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/hr/apartments/nin</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/de/apartments/nin</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://apartmani-enjoy.com/it/apartments/nin</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

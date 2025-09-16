@@ -1,0 +1,59 @@
+{
+  "title": "F.L.Y - First Love Yourself",
+  "header": {
+    "home": "HOME",
+    "news": "NEWS",
+    "services": "SERVICES",
+    "aboutUs": "ABOUT US",
+    "contact": "CONTACT",
+    "close": "CLOSE"
+  },
+  "home": {
+    "introduction": {
+      "title": "Support for your personal growth and inner peace",
+      "text1": "Our psychotherapy practice provides a safe and confidential environment where we work together to overcome life’s challenges, reduce stress, and achieve emotional balance.",
+      "text2": "Whether it’s individual sessions, couples therapy, or group workshops, our goal is to provide a space for understanding, growth, and change."
+    }
+  },
+  "footer": {
+    "iconText": {
+      "icon1": "Confidentiality and safety",
+      "icon2": "Professional and individualized approach",
+      "icon3": "Workshops and group support",
+      "icon4": "Path towards balance and better quality of life"
+    },
+    "location": {
+      "text1": "Split, Zagreb, Ljubljana & online"
+    },
+    "bottomLine": {
+      "text": "© 2025 F.L.Y - First Love Yourself",
+      "urlText": "Website developed by InnovaTech"
+    }
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "introductionTitle": "Welcome to our psychotherapy center",
+    "introductionText": "Our mission is to provide a safe, supportive, and professional environment where each person can explore themselves, develop their own resources, and find inner balance. We believe psychotherapy is a space where doors to understanding, acceptance, and personal growth are opened.",
+    "textTitle": "🌱 Psychotherapy and workshops – a space for growth and support",
+    "text1": "We offer individual and group psychotherapy as well as thematic workshops focused on strengthening personal capacities, coping with stress, and improving quality of life. Our sessions are based on trust, professionalism, and empathy.",
+    "text2": "Intended for everyone who wants to better understand themselves, overcome life’s challenges, and build healthier relationships – regardless of age or life situation.",
+    "contact": {
+      "title": "📞 Contact and reservations",
+      "text": "Ready to book a session? Feel free to contact us – we’ll be happy to answer all your questions.",
+      "phone": "📞 Phone:",
+      "email": "📧 Email:",
+      "location": "📍 Locations: Split, Zagreb, Ljubljana & online",
+      "instagram": "Instagram page",
+      "facebook": "Facebook page"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "introductionTitle": "Stay in touch with us",
+    "introductionText": "Whether you are interested in individual psychotherapy, a group workshop, or simply want to know more about our work – we look forward to hearing from you. We believe in an open and personal approach, and the first step towards change begins with contact."
+  },
+  "errorPage": {
+    "ops": "Oops...",
+    "description": "An error occurred"
+  }
+}

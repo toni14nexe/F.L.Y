@@ -1,0 +1,13 @@
+@import './base.css';
+@import './fixes.css';
+@import './element.css';
+@import './profile.css';
+
+#app {
+  width: 100%;
+  max-width: 1920px;
+  min-height: 100dvh;
+  overflow-x: hidden;
+  margin: auto;
+  background-color: black;
+}

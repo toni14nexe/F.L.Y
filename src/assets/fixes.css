@@ -1,0 +1,32 @@
+.w-100 {
+  width: 100%;
+}
+
+.menu-wrapper .el-tooltip__trigger {
+  --el-border-color: transparent;
+  --el-border-color-hover: transparent;
+  font-size: 16px;
+}
+
+.mobile-header .el-tooltip__trigger {
+  --el-border-color: transparent;
+  --el-border-color-hover: transparent;
+  font-size: 16px;
+  padding: 0;
+  gap: 0;
+}
+
+.mobile-header .el-select__wrapper svg {
+  display: none;
+}
+
+.el-select__wrapper,
+.el-tooltip__trigger,
+.el-select__prefix {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.el-select__wrapper.is-focused {
+  box-shadow: none !important;
+}

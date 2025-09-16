@@ -1,0 +1,59 @@
+{
+  "title": "F.L.Y - First Love Yourself",
+  "header": {
+    "home": "HOME",
+    "news": "NOVITÀ",
+    "services": "SERVIZI",
+    "aboutUs": "CHI SIAMO",
+    "contact": "CONTATTI",
+    "close": "CHIUDI"
+  },
+  "home": {
+    "introduction": {
+      "title": "Supporto per la tua crescita personale e la pace interiore",
+      "text1": "La nostra pratica psicoterapeutica offre un ambiente sicuro e riservato in cui lavoriamo insieme per superare le sfide della vita, ridurre lo stress e raggiungere l’equilibrio emotivo.",
+      "text2": "Che si tratti di colloqui individuali, terapia di coppia o workshop di gruppo, il nostro obiettivo è fornire uno spazio di comprensione, crescita e cambiamento."
+    }
+  },
+  "footer": {
+    "iconText": {
+      "icon1": "Riservatezza e sicurezza",
+      "icon2": "Approccio professionale e personalizzato",
+      "icon3": "Workshop e supporto di gruppo",
+      "icon4": "Percorso verso l’equilibrio e una migliore qualità della vita"
+    },
+    "location": {
+      "text1": "Split, Zagabria, Lubiana & online"
+    },
+    "bottomLine": {
+      "text": "© 2025 F.L.Y - First Love Yourself",
+      "urlText": "Sito web realizzato da InnovaTech"
+    }
+  },
+  "aboutUs": {
+    "title": "Chi siamo",
+    "introductionTitle": "Benvenuti nel nostro centro di psicoterapia",
+    "introductionText": "La nostra missione è offrire un ambiente sicuro, di sostegno e professionale in cui ogni persona possa esplorare se stessa, sviluppare le proprie risorse e trovare equilibrio interiore. Crediamo che la psicoterapia sia uno spazio in cui si aprono le porte alla comprensione, all’accettazione e alla crescita personale.",
+    "textTitle": "🌱 Psicoterapia e workshop – uno spazio per la crescita e il sostegno",
+    "text1": "Offriamo psicoterapia individuale e di gruppo, nonché workshop tematici mirati a rafforzare le capacità personali, affrontare lo stress e migliorare la qualità della vita. I nostri incontri si basano su fiducia, professionalità ed empatia.",
+    "text2": "Destinato a chiunque desideri comprendere meglio se stesso, superare le sfide della vita e sviluppare relazioni più sane – indipendentemente dall’età o dalla situazione di vita.",
+    "contact": {
+      "title": "📞 Contatti e prenotazioni",
+      "text": "Vuoi prenotare un appuntamento? Contattaci liberamente – saremo felici di rispondere a tutte le tue domande.",
+      "phone": "📞 Telefono:",
+      "email": "📧 E-mail:",
+      "location": "📍 Sedi: Split, Zagabria, Lubiana & online",
+      "instagram": "Pagina Instagram",
+      "facebook": "Pagina Facebook"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "introductionTitle": "In contatto con noi",
+    "introductionText": "Che tu sia interessato a una psicoterapia individuale, a un workshop di gruppo o semplicemente voglia saperne di più sul nostro lavoro – saremo lieti di sentirti. Crediamo in un approccio aperto e personale, e il primo passo verso il cambiamento inizia con il contatto."
+  },
+  "errorPage": {
+    "ops": "Ops...",
+    "description": "Si è verificato un errore"
+  }
+}

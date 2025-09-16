@@ -1,0 +1,25 @@
+# HOSTINGER
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# NETLIFY
+
+=begin <IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 1. Ako je root domena, preusmjeri na /hr/
+  RewriteCond %{REQUEST_URI} ^/$
+  RewriteRule ^$ /hr/ [R=301,L]
+
+  # 2. Ako fajl ili folder ne postoji
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  # 3. Sve rute (uključujući /hr/ i /hr/neka-stranica) šalji na index.html
+  RewriteRule ^.*$ /index.html [L]
+</IfModule> =end

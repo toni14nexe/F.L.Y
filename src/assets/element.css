@@ -1,0 +1,46 @@
+/* BUTTON */
+
+.el-button--large {
+  --el-color-primary: goldenrod;
+  --el-button-bg-color: #fcfcfc !important;
+  --el-button-border-color: #aaaaaa !important;
+  --el-button-active-bg-color: black !important;
+  --el-button-active-border-color: black !important;
+  min-height: 60px;
+  min-width: 150px;
+  border-width: 2px !important;
+  transition: 0.3s ease-in-out !important;
+}
+.el-button--large span {
+  font-weight: 600;
+  letter-spacing: 0.25px;
+  transition: 0.3s ease-in-out !important;
+}
+
+/* DRAWER */
+
+.el-drawer {
+  background-color: black !important;
+  opacity: 0.85;
+}
+.el-drawer__close svg {
+  color: goldenrod;
+}
+.el-drawer__close:hover svg {
+  color: white;
+}
+
+/* SELECT & DROPDOWN */
+
+.el-select__wrapper {
+  background-color: black !important;
+}
+.el-select__selected-item {
+  color: goldenrod !important;
+}
+.el-select__caret {
+  color: goldenrod !important;
+}
+.el-dropdown:hover button {
+  background-color: black !important;
+}

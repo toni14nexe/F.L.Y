@@ -1,0 +1,59 @@
+{
+  "title": "F.L.Y - First Love Yourself",
+  "header": {
+    "home": "STARTSEITE",
+    "news": "NEUIGKEITEN",
+    "services": "LEISTUNGEN",
+    "aboutUs": "ÜBER UNS",
+    "contact": "KONTAKT",
+    "close": "SCHLIESSEN"
+  },
+  "home": {
+    "introduction": {
+      "title": "Unterstützung für Ihr persönliches Wachstum und inneren Frieden",
+      "text1": "Unsere psychotherapeutische Praxis bietet eine sichere und vertrauliche Umgebung, in der wir gemeinsam daran arbeiten, Lebensherausforderungen zu meistern, Stress zu reduzieren und emotionale Balance zu erreichen.",
+      "text2": "Ob Einzelsitzungen, Paartherapie oder Gruppenworkshops – unser Ziel ist es, Raum für Verständnis, Wachstum und Veränderung zu schaffen."
+    }
+  },
+  "footer": {
+    "iconText": {
+      "icon1": "Vertraulichkeit und Sicherheit",
+      "icon2": "Professioneller und individueller Ansatz",
+      "icon3": "Workshops und Gruppenunterstützung",
+      "icon4": "Weg zu Balance und besserer Lebensqualität"
+    },
+    "location": {
+      "text1": "Split, Zagreb, Ljubljana & online"
+    },
+    "bottomLine": {
+      "text": "© 2025 F.L.Y - First Love Yourself",
+      "urlText": "Website erstellt von InnovaTech"
+    }
+  },
+  "aboutUs": {
+    "title": "Über uns",
+    "introductionTitle": "Willkommen in unserem Psychotherapiezentrum",
+    "introductionText": "Unsere Mission ist es, eine sichere, unterstützende und professionelle Umgebung zu schaffen, in der jeder Mensch sich selbst erforschen, eigene Ressourcen entwickeln und innere Balance finden kann. Wir glauben, dass Psychotherapie ein Raum ist, in dem Türen zu Verständnis, Akzeptanz und persönlichem Wachstum geöffnet werden.",
+    "textTitle": "🌱 Psychotherapie und Workshops – Raum für Wachstum und Unterstützung",
+    "text1": "Wir bieten individuelle und gruppenbasierte Psychotherapie sowie thematische Workshops an, die auf die Stärkung persönlicher Fähigkeiten, Stressbewältigung und Verbesserung der Lebensqualität ausgerichtet sind. Unsere Treffen basieren auf Vertrauen, Fachkompetenz und Empathie.",
+    "text2": "Für alle, die sich selbst besser verstehen, Lebensherausforderungen überwinden und gesündere Beziehungen aufbauen möchten – unabhängig von Alter oder Lebenssituation.",
+    "contact": {
+      "title": "📞 Kontakt und Termine",
+      "text": "Möchten Sie einen Termin vereinbaren? Kontaktieren Sie uns gerne – wir beantworten Ihre Fragen mit Freude.",
+      "phone": "📞 Telefon:",
+      "email": "📧 E-Mail:",
+      "location": "📍 Standorte: Split, Zagreb, Ljubljana & online",
+      "instagram": "Instagram-Seite",
+      "facebook": "Facebook-Seite"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "introductionTitle": "In Kontakt mit uns",
+    "introductionText": "Ob Sie an individueller Psychotherapie, einem Gruppenworkshop interessiert sind oder einfach mehr über unsere Arbeit erfahren möchten – wir freuen uns auf Ihre Nachricht. Wir glauben an einen offenen und persönlichen Ansatz, und der erste Schritt zur Veränderung beginnt mit dem Kontakt."
+  },
+  "errorPage": {
+    "ops": "Ups...",
+    "description": "Ein Fehler ist aufgetreten"
+  }
+}

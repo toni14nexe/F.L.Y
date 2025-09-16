@@ -1,0 +1,59 @@
+{
+  "title": "F.L.Y - First Love Yourself",
+  "header": {
+    "home": "DOMOV",
+    "news": "NOVICE",
+    "services": "STORITVE",
+    "aboutUs": "O NAS",
+    "contact": "KONTAKT",
+    "close": "ZAPRI"
+  },
+  "home": {
+    "introduction": {
+      "title": "Podpora za vašo osebno rast in notranji mir",
+      "text1": "Naša psihoterapevtska praksa ponuja varno in zaupno okolje, v katerem skupaj premagujemo življenjske izzive, zmanjšujemo stres in dosegamo čustveno ravnovesje.",
+      "text2": "Ne glede na to, ali gre za individualne pogovore, partnersko terapijo ali skupinske delavnice, je naš cilj ustvariti prostor za razumevanje, rast in spremembo."
+    }
+  },
+  "footer": {
+    "iconText": {
+      "icon1": "Zaupnost in varnost",
+      "icon2": "Strokoven in individualiziran pristop",
+      "icon3": "Delavnice in skupinska podpora",
+      "icon4": "Pot do ravnovesja in boljše kakovosti življenja"
+    },
+    "location": {
+      "text1": "Split, Zagreb, Ljubljana & online"
+    },
+    "bottomLine": {
+      "text": "© 2025 F.L.Y - First Love Yourself",
+      "urlText": "Spletno stran izdelal InnovaTech"
+    }
+  },
+  "aboutUs": {
+    "title": "O nas",
+    "introductionTitle": "Dobrodošli v našem centru za psihoterapijo",
+    "introductionText": "Naše poslanstvo je zagotoviti varno, podporno in strokovno okolje, kjer lahko vsak posameznik raziskuje samega sebe, razvija svoje vire in najde notranje ravnovesje. Verjamemo, da je psihoterapija prostor, kjer se odpirajo vrata razumevanja, sprejemanja in osebne rasti.",
+    "textTitle": "🌱 Psihoterapija in delavnice – prostor za rast in podporo",
+    "text1": "Ponujamo individualno in skupinsko psihoterapijo ter tematske delavnice, namenjene krepitvi osebnih sposobnosti, spopadanju s stresom in izboljšanju kakovosti življenja. Naši srečanja temeljijo na zaupanju, strokovnosti in empatiji.",
+    "text2": "Namenjeno vsem, ki želijo bolje razumeti sebe, premagati življenjske izzive in razviti bolj zdrave odnose – ne glede na starost ali življenjsko situacijo.",
+    "contact": {
+      "title": "📞 Kontakt in rezervacije",
+      "text": "Želite rezervirati termin? Kontaktirajte nas – z veseljem bomo odgovorili na vsa vaša vprašanja.",
+      "phone": "📞 Telefon:",
+      "email": "📧 E-pošta:",
+      "location": "📍 Lokacije: Split, Zagreb, Ljubljana & online",
+      "instagram": "Instagram stran",
+      "facebook": "Facebook stran"
+    }
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "introductionTitle": "V stiku z nami",
+    "introductionText": "Ali vas zanima individualna psihoterapija, skupinska delavnica ali pa želite izvedeti več o našem delu – veselimo se vašega sporočila. Verjamemo v odprt in oseben pristop, prvi korak k spremembi pa se začne prav s kontaktom."
+  },
+  "errorPage": {
+    "ops": "Ups...",
+    "description": "Prišlo je do napake"
+  }
+}
